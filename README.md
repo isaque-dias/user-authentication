@@ -38,7 +38,7 @@ Request Body (JSON):
   "name": "João da Silva",
   "email": "joao@example.com",
   "username": "joaosilva",
-  "password": "senha123"
+  "password": "senha_aqui"
 }
 ```
 
@@ -77,7 +77,7 @@ Request Body (JSON):
   "name": "João Silva Atualizado",
   "email": "joao@example.com",
   "username": "joaosilva",
-  "password": "novasenha123"
+  "password": "senha_aqui"
 }
 ```
 Resposta (200 OK):
